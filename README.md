@@ -1,8 +1,6 @@
 # Terraform Module: AWS ALB Ingress Controller for Kubernetes
 
-This is a Terraform module to create an [AWS ALB Igress Controller][1]. This module is opinionated in that it forces your ingress controller to be scoped to the namespace it is deployed into.
-
-Uses the [Kubernetes provider][2] for Terraform
+This is a Terraform module to create an [AWS ALB Ingress Controller][1]. This module is opinionated in that it forces your ingress controller to be scoped to the namespace it is deployed into. Uses the [Kubernetes provider][2] for Terraform.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
